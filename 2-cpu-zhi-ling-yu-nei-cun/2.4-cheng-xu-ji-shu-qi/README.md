@@ -10,7 +10,7 @@ description: The Program Counter register
 
 [The Program Counter](https://en.wikipedia.org/wiki/Program\_counter) (henceforth referred to as PC) is one of the most elementary registers, it exists in one form or another on basically all computer architectures (although it goes by various names, on x86 for instance it’s called the Instruction Pointer, IP). Its job is simply to hold the address of the next instruction to be run.
 
-[程序计数器](https://zh.wikipedia.org/wiki/%E7%A8%8B%E5%BC%8F%E8%A8%88%E6%95%B8%E5%99%A8)(后文中简称PC)是最基本的寄存器之一，它以某种形式存在于几乎所有的计算机体系结构中(尽管名字不同。例如，x86把它称为指令指针(Instruction Pointer, IP))。它的工作是简单地保存下一条要运行的指令的地址。
+[程序计数器](https://zh.wikipedia.org/wiki/%E7%A8%8B%E5%BC%8F%E8%A8%88%E6%95%B8%E5%99%A8)(后文中简称PC)是最基本的寄存器之一，它以某种形式存在于几乎所有的计算机体系结构中(尽管名字不同。例如，x86把它称为指令指针(Instruction Pointer, IP)寄存器。它的工作是简单地保存下一条要运行的指令的地址。
 
 As we’ve seen, the PlayStation uses 32bit addresses, so the PC register is 32bit wide (as are all other CPU registers for that matter).
 
