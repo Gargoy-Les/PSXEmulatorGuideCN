@@ -11,4 +11,5 @@
   * [2.4 程序计数器](2-cpu-zhi-ling-yu-nei-cun/2.4-cheng-xu-ji-shu-qi/README.md)
     * [2.4.1 重置程序计数器的值](2-cpu-zhi-ling-yu-nei-cun/2.4-cheng-xu-ji-shu-qi/2.4.1-zhong-zhi-pc-de-zhi.md)
   * [2.5 PlayStation内存映射](2-cpu-zhi-ling-yu-nei-cun/2.5-playstation-nei-cun-ying-she.md)
+  * [2.6 BIOS(基本输入输出系统)](2-cpu-zhi-ling-yu-nei-cun/2.6-bios-ji-ben-shu-ru-shu-chu-xi-tong.md)
 * [汉英术语对照表](han-ying-shu-yu-dui-zhao-biao.md)
